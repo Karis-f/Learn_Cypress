@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://magento.softwaretestingboard.com/",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "defaultCommandTimeout": 5000,
+  "chromeWebSecurity": false
+}

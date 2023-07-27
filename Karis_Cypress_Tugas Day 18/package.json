@@ -1,0 +1,17 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "description": "Tugas Akhir Team-6",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  },
+  "dependencies": {
+    "Cypress": "npm:cypress@^4.12.1"
+  }
+}
